@@ -1,0 +1,22 @@
+.button-gap {
+  margin: 5px;
+}
+
+.card-border {
+  border: solid 3px;
+  border-radius: 8px;
+  width: fit-content;
+  padding: 20px;
+}
+
+.input-border {
+  border: solid 3px;
+  border-radius: 3px;
+  height: 40px;
+}
+
+.count-color {
+  color: rgba(225, 1, 255, 0.995);
+  font-weight: bold;
+  
+}
